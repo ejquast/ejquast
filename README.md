@@ -18,9 +18,9 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Eliza</h1>
 <h3 align="center">Up-and-coming full-stack developer from Dallas, Texas, USA</h3>
 
-- 🔭 I’m currently working on **a final project website**
+- 🔭 I’m currently working on **a final project website: BrewBuddy**
 
-- 🌱 I’m currently learning **full-stack development**
+- 🌱 I’m currently learning **HTML5/CSS, Javascript, Python, React**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/19kbshh5s8](https://flowcv.com/resume/19kbshh5s8)
 
