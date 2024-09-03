@@ -17,10 +17,11 @@ Here are some ideas to get you started:
 
 <h1 align="center">Hi 👋, I'm Eliza</h1>
 <h3 align="center">Up-and-coming full-stack developer from Dallas, Texas, USA</h3>
+<p align="left">Driven by a desire to leverage my analytical skills and meticulous attention to detail in a more dynamic field, I am transitioning from Internal Auditor to Software Engineer. With nearly 9 years of experience in internal audit, I have developed a keen ability to dissect complex systems and implement robust controls, which I now aim to apply in creating impactful software solutions. My background equips me with a unique perspective on risk management and compliance, enabling me to develop secure and reliable software. I am excited to join a forward-thinking development team where I can continuously learn, innovate, and contribute to meaningful projects.</p>
 
 - 🔭 I’m currently working on **a final project website: BrewBuddy**
 
-- 🌱 I’m currently learning **HTML5/CSS, Javascript, Python, React**
+- 🌱 I’m currently learning **HTML5/CSS, Javascript, Python, React, SQL**
 
 - 📄 Know about my experiences [https://flowcv.com/resume/19kbshh5s8](https://flowcv.com/resume/19kbshh5s8)
 
